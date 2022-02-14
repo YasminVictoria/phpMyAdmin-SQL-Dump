@@ -1,4 +1,4 @@
-<img src="img.png" alt="Screenshot do Projeto em funcionamento">
+<img src="img-dados.png" alt="Screenshot do Projeto em funcionamento">
 
 > 🪑 Alguns Bancos de dados que criei
 
